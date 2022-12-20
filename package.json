@@ -1,0 +1,11 @@
+{
+  "name": "weather-application-da",
+  "version": "1.0.0",
+  "description": "Weather Application",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Asia, Dwight .",
+  "license": "ISC"
+}
